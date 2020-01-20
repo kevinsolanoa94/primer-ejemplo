@@ -1,7 +1,6 @@
 def main(msg):
+	// change to master
 	print(msg)
 
-def secondary():
-	print("new function")
 
 main("Hello People")
