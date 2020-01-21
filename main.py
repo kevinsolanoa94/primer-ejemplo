@@ -1,5 +1,5 @@
 def main(msg):
-	// change to master
+	# change to master
 	print(msg)
 
 
